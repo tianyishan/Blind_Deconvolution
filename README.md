@@ -17,7 +17,7 @@ CMake should be installed
     ./prida <imagename>.png or pathname lambda kernel_size
 For example:
 
-    ./prida babies.png 0.0006 19
+    ./prida ../babies.png 0.0006 19
     
 When the program finishes, it will write the result into the same folder of your input image.  
 
