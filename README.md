@@ -10,8 +10,9 @@ OpenCV should be installed
 CMake should be installed
 
 ### Running the Code 
-    cd /dest
-    cmake . 
+    mkdir build
+    cd build 
+    cmake ..
     make
     ./prida <imagename>.png or pathname lambda kernel_size
 For example:
