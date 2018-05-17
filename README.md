@@ -6,6 +6,7 @@ This is a cpp implementation of PRIDA
 ### Prerequisites
 
 OpenCV should be installed 
+
 CMake should be installed
 
 ### Running the Code 
