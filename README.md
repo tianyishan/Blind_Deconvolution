@@ -1,7 +1,13 @@
 
 # PRIDA_CPP
 
-This is a cpp implementation of PRIDA
+This is a cpp implementation of PRIDA. A research project for the Computer Vision Lab in University of Wisconsin Madison
+
+PRIDA is Provably Robust Image Deconvolution. A blind deconvolution algorithm. 
+
+The complete implementation is recorded in [PRIDA](https://github.com/sravi-uwmadison/prida)
+
+The paper is recorded in [arxiv](https://arxiv.org/abs/1803.08137)
 
 ### Prerequisites
 
