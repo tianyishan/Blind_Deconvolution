@@ -11,9 +11,9 @@ The paper is recorded in [arxiv](https://arxiv.org/abs/1803.08137)
 
 ### Prerequisites
 
-OpenCV should be installed 
+CMake should be installed 
 
-CMake should be installed -> [Install-OpenCV](https://github.com/jayrambhia/Install-OpenCV)
+OpenCV should be installed -> [Install-OpenCV](https://github.com/jayrambhia/Install-OpenCV)
 
 ### Running the Code 
     mkdir build
