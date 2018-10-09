@@ -1,10 +1,9 @@
 
 # PRIDA_CPP
 
-PRIDA stands for Provably Robust Image Deconvolution Algorithm. 
-It is a algorithm to deblur images. 
+PRIDA is developed by the lab of computer vision in University of Wisconsin Madison. It stands for Provably Robust Image Deconvolution Algorithm, a image deblurring algorithm. 
 
-This is a cpp implementation of PRIDA. 
+This code is a C++ reliaztion of PRIDA. 
 
 PRIDA is Provably Robust Image Deconvolution. A blind deconvolution algorithm. 
 
