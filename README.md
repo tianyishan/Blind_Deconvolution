@@ -3,6 +3,8 @@
 
 PRIDA is developed by the lab of computer vision in University of Wisconsin Madison. It stands for Provably Robust Image Deconvolution Algorithm, a image deblurring algorithm. 
 
+PRIDA is similar in spirit to the MD algorithm in Convex Optimization. The main difference between the standard MD algorithm and PRIDA is that the step size is chosen independently for each coordinate. 
+
 This code is a C++ reliaztion of PRIDA. The complete implementation is recorded in [PRIDA](https://github.com/sravi-uwmadison/prida) The paper is recorded in [arxiv](https://arxiv.org/abs/1803.08137)
 
 ## Prerequisites
