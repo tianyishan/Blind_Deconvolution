@@ -29,7 +29,10 @@ For example:
     
 When the program finishes, it will write the result into the same folder of your input image.  
 ### Result 
-![babies](https://user-images.githubusercontent.com/14845016/46645630-6c9cc800-cb4b-11e8-82c7-934c3c1776fb.png)![babiesrecov](https://user-images.githubusercontent.com/14845016/46645631-6c9cc800-cb4b-11e8-84bf-61954c233003.png)
+![babies](https://user-images.githubusercontent.com/14845016/46645893-b33ef200-cb4c-11e8-8e3d-ab759df584b7.png)  ![babiesrecov](https://user-images.githubusercontent.com/14845016/46645894-b33ef200-cb4c-11e8-875d-f1022e7306d6.png)
+
+
+
 
 
 A future goal of this project is to optimaize the speed of running the algorithm. 
