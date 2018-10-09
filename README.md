@@ -5,13 +5,13 @@ PRIDA is developed by the lab of computer vision in University of Wisconsin Madi
 
 This code is a C++ reliaztion of PRIDA. The complete implementation is recorded in [PRIDA](https://github.com/sravi-uwmadison/prida) The paper is recorded in [arxiv](https://arxiv.org/abs/1803.08137)
 
-### Prerequisites
+## Prerequisites
 
 CMake should be installed 
 
 OpenCV should be installed -> [Install-OpenCV](https://github.com/jayrambhia/Install-OpenCV)
 
-### Running the Code 
+## Running the Code 
     mkdir build
     cd build 
     cmake ..
@@ -22,7 +22,7 @@ For example:
     ./prida ../babies.png 0.0006 19
     
 When the program finishes, it will write the result into the same folder of your input image.  
-### Results  
+## Results  
 <img width="225" height="225" alt="blur" src="https://user-images.githubusercontent.com/14845016/46645893-b33ef200-cb4c-11e8-8e3d-ab759df584b7.png"> <img width="225" height="225" alt="clear" src="https://user-images.githubusercontent.com/14845016/46645894-b33ef200-cb4c-11e8-875d-f1022e7306d6.png">
 
 <img width="250" height="325" alt="blur" src="https://user-images.githubusercontent.com/14845016/46645944-f39e7000-cb4c-11e8-820c-1be5f2d5409a.png"> <img width="250" height="325" alt="clear" src="https://user-images.githubusercontent.com/14845016/46645945-f5683380-cb4c-11e8-8136-80524e4c5a4a.png">
