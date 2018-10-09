@@ -20,6 +20,9 @@ OpenCV should be installed -> [Install-OpenCV](https://github.com/jayrambhia/Ins
 For example:
 
     ./prida ../babies.png 0.0006 19
+
+![screen shot 2018-10-08 at 23 22 03](https://user-images.githubusercontent.com/14845016/46646664-0450e500-cb51-11e8-88f5-e08545ef122b.png)
+
     
 When the program finishes, it will write the result into the same folder of your input image.  
 ## Results  
