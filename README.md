@@ -11,13 +11,21 @@ CMake should be installed
 
 OpenCV should be installed -> [Install-OpenCV](https://github.com/jayrambhia/Install-OpenCV)
 
-## Running the Code 
-    mkdir build
-    cd build 
-    cmake ..
-    make
+## Compile 
+```script
+ git clone https://github.com/tianyishan/PRIDA_CPP.git
+ cd PRIDA_CPP
+ mkdir build
+ cd build 
+ cmake ..
+ make
+```
+## Running the Code
+The format of command-line argument is:
+
     ./prida <imagename>.png or pathname lambda kernel_size
-For example:
+
+To run one of the demo pictures: 
 
     ./prida ../babies.png 0.0006 19
 
