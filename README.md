@@ -41,7 +41,7 @@ When the program finishes, it will write the result into the same folder of your
 <img width="250" height="325" alt="blur" src="https://user-images.githubusercontent.com/14845016/46645944-f39e7000-cb4c-11e8-820c-1be5f2d5409a.png"> <img width="250" height="325" alt="clear" src="https://user-images.githubusercontent.com/14845016/46645945-f5683380-cb4c-11e8-8136-80524e4c5a4a.png">
 
 
-### Next Step
+### Next Steps
 
 The future goals of this project are 
 - To optimize the speed of running the algorithm. 
