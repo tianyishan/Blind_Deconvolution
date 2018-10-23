@@ -1,5 +1,5 @@
 
-# PRIDA_CPP
+# Blind_Deconvolution
 
 PRIDA is developed by the lab of computer vision in University of Wisconsin Madison. It stands for Provably Robust Image Deconvolution Algorithm, a image deblurring algorithm. 
 
