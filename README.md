@@ -43,4 +43,8 @@ When the program finishes, it will write the result into the same folder of your
 
 ### Next Step
 
-A future goal of this project is to optimaize the speed of running the algorithm. 
+The future goals of this project are 
+- To optimaize the speed of running the algorithm. 
+- To adapting it with modern deep learning methods.
+- To work with a wider variety of blurred kernels and images.
+- To create a GUI.
