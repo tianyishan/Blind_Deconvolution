@@ -5,7 +5,7 @@ PRIDA is developed by the lab of computer vision in University of Wisconsin Madi
 
 PRIDA is similar in spirit to the MD algorithm in Convex Optimization. The main difference between the standard MD algorithm and PRIDA is that the step size is chosen independently for each coordinate. 
 
-This code is a C++ reliaztion of PRIDA. The complete implementation is recorded in [PRIDA](https://github.com/sravi-uwmadison/prida) The paper is recorded in [arxiv](https://arxiv.org/abs/1803.08137)
+This code is a C++ realization of PRIDA. The matlab implementation is recorded in [PRIDA](https://github.com/sravi-uwmadison/prida) The paper is recorded in [arxiv](https://arxiv.org/abs/1803.08137).
 
 ## Prerequisites
 
@@ -44,7 +44,7 @@ When the program finishes, it will write the result into the same folder of your
 ### Next Step
 
 The future goals of this project are 
-- To optimaize the speed of running the algorithm. 
-- To adapting it with modern deep learning methods.
-- To work with a wider variety of blurred kernels and images.
+- To optimize the speed of running the algorithm. 
+- To adapt it with modern deep learning methods.
+- To work with a wider variety of blur kernels and images.
 - To create a GUI.
